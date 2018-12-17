@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimonDice</string>
+    <string name="simon_dice">SIMON DICE</string>
+    <string name="azul">AZUL</string>
+    <string name="amarillo">AMARILLO</string>
+    <string name="verde">VERDE</string>
+    <string name="rojo">ROJO</string>
+    <string name="jugar">JUGAR</string>
+    <string name="salir">SALIR</string>
+</resources>
